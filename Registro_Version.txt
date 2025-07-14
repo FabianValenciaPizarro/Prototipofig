@@ -1,4 +1,5 @@
-1.0 Creacion del prototipo
-1.2 Implementación de casos de uso
-1.3 Corrección de errores
-1.4 Version final
+1.0 Planificación e inicio del prototipo
+1.1 Implementación de casos de uso junto a las historias de usuario
+1.2 Corrección de errores y inclusion de conectores del prototipo
+1.3 Testeo funcional del prototipo
+1.4 Version final del prototipo
